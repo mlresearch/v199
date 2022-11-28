@@ -5,7 +5,7 @@ volume: '199'
 year: '2022'
 start: 2022-08-22
 end: 2022-08-24
-published: 2022-11-29
+published: 2022-11-28
 conference_number: '1'
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -27,7 +27,7 @@ description: |
   Proceedings of The 1st Conference on Lifelong Learning Agents
     Held in McGill University, Montr\'{e}al, Qu\'{e}bec, Canada on 22-24 August 2022
 
-  Published as Volume 199 by the Proceedings of Machine Learning Research on 29 November 2022.
+  Published as Volume 199 by the Proceedings of Machine Learning Research on 28 November 2022.
 
   Volume Edited by:
     Sarath Chandar

@@ -12,7 +12,7 @@ For details of what is required to submit a proceedings please check https://pro
 
 
 
-Published as Volume 199 by the Proceedings of Machine Learning Research on 29 November 2022.
+Published as Volume 199 by the Proceedings of Machine Learning Research on 28 November 2022.
 
 Volume Edited by:
   * Sarath Chandar
